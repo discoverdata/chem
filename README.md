@@ -3,7 +3,7 @@
 ##  Acknowledgement
 All the credit should go to GROMACS authors for making such a wonderful molecular dynamics software GROMACS.
 # This script runs MD using GROMACS
-Download the script and the default_mdp.zip folder to your local computer.
+Download the script, default_mdp.zip folder and the example folder (optional) to your local computer.
 ## Steps to run the script 
 - (Required) Make sure you have GROMACS installed (I have tested it on version 2016.3 on ubuntu). However, it should work on versions 5.1.0 and above. 
 - (Required) Unzip the default_mdp folder using "unzip default_mdp.zip" command.
